@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Mafid/Mafid/blob/main/logooooo.jpg) 
 <h1 align="center">Hi 👋, I'm Mafid Bin Mizan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif">
