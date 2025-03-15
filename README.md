@@ -12,10 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/mafid-bin-mizan-56b599254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mafid" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/15gh4FA2Eh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="su ha ni" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mafid_21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="su_hani_roseamond20" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dipa22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipa22" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mafid-bin-mizan-56b599254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mafid" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/15gh4FA2Eh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mafid" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mafid_21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mafid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
